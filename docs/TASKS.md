@@ -64,13 +64,13 @@
 - [ ] Implement safety checks in the C++ API to prevent unsafe actions.
 - [ ] Create an emergency stop mechanism for both the virtual and physical robots, using C++.
 
-## ~Data Logging and Analysis~
+## ~Data Logging and Analysis~ (TBD)
 
 - [ ] Set up a data logging system in C++ to capture robot performance data.
 - [ ] Develop C++ tools for analyzing the logged data and generating reports.
 - [ ] Implement real-time monitoring of critical data in C++.
 
-## ~Deployment and Scaling~
+## ~Deployment and Scaling~ (TBD)
 
 - [ ] Plan the deployment strategy for the C++ project, considering platform compatibility.
 - [ ] Consider scalability options for handling a growing number of robots in C++.
