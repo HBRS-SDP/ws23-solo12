@@ -26,7 +26,7 @@ Project title: Abstraction for Controlling the SOLO 12 Quadruped Robot
 
 4. **User Story**: As a developer, I want to implement a control loop with a frequency of 500 Hz for precise and real-time control.
 - **Acceptance Criteria**:
-    - The abstraction should meet the 1 kHz control loop frequency requirement.
+    - The abstraction should meet the 500 Hz control loop frequency requirement.
 
 5. **User Story:** As a software developer, I want the common API to be developed in C++ to facilitate smooth interoperability between simulation and real
 - **Acceptance Criteria:**
