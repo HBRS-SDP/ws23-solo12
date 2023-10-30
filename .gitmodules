@@ -1,0 +1,3 @@
+[submodule "solo12_robot"]
+	path = solo12_robot
+	url = git@github.com:a2s-institute/solo12_robot.git
