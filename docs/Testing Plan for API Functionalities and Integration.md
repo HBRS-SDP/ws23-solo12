@@ -91,18 +91,6 @@
    - Simulate emergency situations and trigger an emergency stop.
    - Verify that the robot halts safely and enters a secure state.
 
-### 2.4 Documentation and User Support
-
-**Objective:** Confirm that the project is well-documented and provides adequate support for users.
-
-**Test Cases:**
-1. **Documentation Review:**
-   - Review project documentation for clarity and completeness.
-   - Confirm the presence of installation, usage, and development guidelines.
-
-2. **User Support Channels:**
-   - Test user support channels (e.g., forums, communication platforms).
-   - Verify that users can seek help and receive timely responses.
 
 ## 3. Automation
 
@@ -119,14 +107,6 @@
    - Implement automated integration tests for various modules.
    - Ensure the tests cover communication, control, and safety aspects.
 
-### 3.2 Continuous Integration (CI)
-
-**Objective:** Implement continuous integration to automate testing and code quality checks.
-
-**Test Cases:**
-1. **CI Pipeline Execution:**
-   - Set up CI pipelines using tools like Travis CI or GitHub Actions.
-   - Verify that automated tests run successfully on each code commit.
 
 ## 4. Review and Deployment
 
